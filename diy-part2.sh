@@ -17,7 +17,7 @@ echo '###  ###'
 
 echo '### Updates Theme Argon ###'
 rm -rf package/lean/luci-theme-argon
-git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lean/luci-theme-argon
+git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/feeds/luci/luci-theme-argon
 echo '###  ###'
 
 echo '### 添加 mt7621 支持 ###'
